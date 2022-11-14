@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'bonneNouvelles'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37A3049D7847419D88224BA6374A8001 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_776C8938F2D643E084C4DB62EAE3F4B3 }}
           package: .
